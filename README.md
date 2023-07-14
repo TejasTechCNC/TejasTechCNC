@@ -2,4 +2,5 @@
 TEJAS TECH COMPANY WEBSITE
 domain name- tejastech.in
 
-Website looks down, I will fix it ASAP
+This is the Tejas Tech company website
+Designed by https://github.com/ManishaJohnson
